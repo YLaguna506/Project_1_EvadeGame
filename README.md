@@ -22,8 +22,9 @@ I had to modify the graphics module and include 4 new functions to the Rectangle
 The 4 new functions are 'getx_1', 'getx_2', 'gety_1' and 'gety_2'.
 This functions return the x and y values of the 2 points of the rectangle.
 
-
-
+UPDATE #2
+---
+---
 main.py contains first prototype of the game. It was made with classes.
 
 Evade_B contains the game but without the implementation of classes. It just uses functions.
