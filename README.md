@@ -22,6 +22,10 @@ I had to modify the graphics module and include 4 new functions to the Rectangle
 The 4 new functions are 'getx_1', 'getx_2', 'gety_1' and 'gety_2'.
 This functions return the x and y values of the 2 points of the rectangle.
 
+![EVADE1](https://user-images.githubusercontent.com/77646834/153594376-165916e1-dfcf-44f4-b4a7-4addfc4c436b.PNG)
+![EVADE2](https://user-images.githubusercontent.com/77646834/153594382-4152c1da-2605-4b6e-bca8-7f8e3520b340.PNG)
+
+
 UPDATE #2
 ---
 ---
