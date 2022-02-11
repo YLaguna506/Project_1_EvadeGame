@@ -1,6 +1,8 @@
 # Laguna_96642_project01_EvadeGame
 My first project game for my python class.
 
+Press A,S,D,W to move.
+
 The primary objective of this game is to evade the enemy cubes. 
 When you click the screen the game countdown starts. After 5 seconds the game starts.
 If you collide with the screen borders, you lose,
