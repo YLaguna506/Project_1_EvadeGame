@@ -15,7 +15,7 @@ If you survive long enough the game gets harder and harder.
 
 To control the main cube, you must use the keyboard keys 'wasd'.
 The enemy cubes at the start, begin to fall down until they reach the bottom. 
-Then they will fall from the sky continuously at random y - axis ranges.
+Then they will fall from the sky continuously at random x - axis ranges.
 All of this is done thanks to infinite loops, and the time.sleep() function.
 75 enemy cubes are created from the start.
 
